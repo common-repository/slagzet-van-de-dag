@@ -1,0 +1,61 @@
+.SVD_widget{
+	
+}
+
+#SVDcontainer{
+	display:inline-block;	
+	width:180px;
+	margin: auto;
+}
+
+.SVDhidden{
+	display:none;
+}
+
+.SVDclickable:hover {
+	cursor: pointer;
+}
+
+#SVDname{
+	float:left;
+	clear: left; 
+	margin-bottom: 0px;
+}
+
+#SVDboard{
+	width: 180px;
+	height: 180px;
+	margin: 0px !important;
+	padding: 0px !important;
+	border: 0px !important;
+	float:left;
+	clear: left; 
+}
+
+#SVDboard > img {
+	float: left;
+	border-radius: 0px;
+	box-shadow: 0 0px 0px rgba(0, 0, 0, 0.2);
+}
+#SVDass{
+	float:left;
+	clear: left; 
+	margin-bottom: 0px;
+}
+
+#SVDplayback{
+	float: left;
+	clear: left;
+	padding-top: 3px;
+	text-align: center;
+	margin:auto;
+	width:180px;
+	
+}
+
+#SVDplayback> img{
+	box-shadow: 0 0px 0px rgba(0, 0, 0, 0.2);
+	border-radius: 0px;
+	padding: 2px;
+}
+
